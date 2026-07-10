@@ -1,0 +1,38 @@
+/index.html / 301
+/services.html /services 301
+/mens-haircut-surrey-bc.html /mens-haircut-surrey-bc 301
+/eyebrow-waxing-surrey-bc.html /eyebrow-waxing-surrey-bc 301
+/hair-straightening-surrey-bc.html /hair-straightening-surrey-bc 301
+/hair-color-highlights-surrey-bc.html /hair-color-highlights-surrey-bc 301
+/grooming-package-surrey-bc.html /grooming-package-surrey-bc 301
+/hair-styling-surrey-bc.html /hair-styling-surrey-bc 301
+/about-us.html /about-us 301
+/gallery.html /gallery 301
+/testimonials.html /testimonials 301
+/contact-us.html /contact-us 301
+
+# Legacy duplicate/old service URLs.
+/about.html /about-us 301
+/about /about-us 301
+/contactus.html /contact-us 301
+/contactus /contact-us 301
+/haircuts.html /mens-haircut-surrey-bc 301
+/haircuts /mens-haircut-surrey-bc 301
+/eyebrows.html /eyebrow-waxing-surrey-bc 301
+/eyebrows /eyebrow-waxing-surrey-bc 301
+/grooming-package.html /grooming-package-surrey-bc 301
+/grooming-package /grooming-package-surrey-bc 301
+/hair-straightening.html /hair-straightening-surrey-bc 301
+/hair-straightening /hair-straightening-surrey-bc 301
+/hair-styling.html /hair-styling-surrey-bc 301
+/hair-styling /hair-styling-surrey-bc 301
+/color-highlights.html /hair-color-highlights-surrey-bc 301
+/color-highlights /hair-color-highlights-surrey-bc 301
+
+# Old mixed-case URLs from earlier filenames.
+/Color-&-Highlights.html /hair-color-highlights-surrey-bc 301
+/Color-%26-Highlights.html /hair-color-highlights-surrey-bc 301
+/Grooming-Package.html /grooming-package-surrey-bc 301
+/Hair-Straightening.html /hair-straightening-surrey-bc 301
+/Hair-Styling.html /hair-styling-surrey-bc 301
+/Eyebrows.html /eyebrow-waxing-surrey-bc 301

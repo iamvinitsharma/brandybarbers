@@ -1,0 +1,24 @@
+User-agent: *
+Allow: /
+
+# Keep generated/private folders out of crawlers.
+Disallow: /.git/
+Disallow: /.github/
+Disallow: /.claude/
+Disallow: /.agents/
+Disallow: /.wrangler/
+
+# AI crawlers may use the public site and LLM summary files.
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+Sitemap: https://brandybarbers.ca/sitemap.xml
